@@ -1,7 +1,13 @@
 fastapi
 uvicorn
+<<<<<<< HEAD
 pandas
 langchain
 huggingface_hub
 pydantic
 langchain_community
+=======
+sqlalchemy
+psycopg2
+pydantic
+>>>>>>> 6bc9bf72b3d4da3b165854e82d7db602ba60a76a

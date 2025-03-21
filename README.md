@@ -2,7 +2,7 @@
 
 ChakravyuhAI is a Fraud Detection, Alert, and Monitoring (FDAM) system designed for payment gateways. It combines expert rules with AI models to detect fraudulent transactions in real-time and batch processing. The system also includes fraud reporting, a transaction monitoring dashboard, and an investigation module for fraud cases.
 
-🔗 Live Demo: [ChakravyuhAI](https://v0-fdam-frontend.vercel.app/) 
+🔗 Live Demo: [ChakravyuhAI](https://fdam-frontend.vercel.app/dashboard)
 ### Key Features
 
 #### 1. Real-Time Fraud Detection
